@@ -14,6 +14,7 @@
 - [Dialogue System](#dialogue-system)
     - [Task-oriented Dialogue](#task-oriented-dialogue)
     - [Open-domain Dialogue](#open-domain-dialogue)
+    - [Personalized Dialogue](#personalized-dialogue)
 - [Dataset](#dataset)
 
 ## Bert Series
@@ -29,11 +30,11 @@
 ### Task-oriented Dialogue
 
 * **GLMP**: GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS
-FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://arxiv.org/pdf/1901.04713) [[code]](https://github.com/jasonwu0731/GLMP)
+FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://arxiv.org/pdf/1901.04713.pdf) [[code]](https://github.com/jasonwu0731/GLMP)
 
 ### Open-domain Dialogue
 
-* **Low-Resource**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://arxiv.org/pdf/2002.10348)
+* **Low-Resource**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://arxiv.org/pdf/2002.10348.pdf)
 * **PS**: Prototype-to-Style: Dialogue Generation
 with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.02214.pdf)
 * **RefNet**: A Reference-aware Network for Background Based Conversation. AAAI-2020 [[pdf]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet)
@@ -42,6 +43,11 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **SeqGen**: Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework. EMNLP-2019 [[pdf]](https://www.aclweb.org/anthology/D19-1195.pdf) [[code]](https://github.com/jcyk/seqgen)
 * **Skeleton-to-Response**: Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1124.pdf)
 
+### Personalized Dialogue
+
+* **GDR**: Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.07672.pdf)
+* **Persona-sparse**: A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data. AAAI-2020 [[pdf]](https://arxiv.org/pdf/1911.04700.pdf)
+
 ## Dataset
 
-* **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.04494) [[data]](https://github.com/Nealcly/MuTual)
+* **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.04494.pdf) [[data]](https://github.com/Nealcly/MuTual)
