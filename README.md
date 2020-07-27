@@ -1,6 +1,6 @@
 # NLP-Paper-Reading
 
-![Language Python](https://img.shields.io/badge/Language-Python-red)
+![Language Markdown](https://img.shields.io/badge/Language-Markdown-red)
 [![License CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-blue.svg)](https://github.com/imrdon/nlp-paper-reading/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/imrdon/nlp-paper-reading.svg?style=social&label=Star&maxAge=10)](https://github.com/imrdon/nlp-paper-reading/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/imrdon/nlp-paper-reading?style=social&label=Fork&maxAge=10)](https://github.com/imrdon/nlp-paper-reading/network/members/)
@@ -10,27 +10,23 @@
 ## :blush:Table of Contents 
 
 - [Bert Series](#bert-series)
-- [Transformer Series](#transformer-series)
 - [Dialogue System](#dialogue-system)
-    - [Task-oriented Dialogue](#task-oriented-dialogue)
+    - [Dataset for Dialogue](#dataset-for-dialogue) 
     - [Open-domain Dialogue](#open-domain-dialogue)
-    - [Personalized Dialogue](#personalized-dialogue)
-- [Dataset](#dataset)
+    - [Personalized Dialogue](#personalized-dialogue)  
+    - [Survey on Dialogue](#survey-on-dialogue)
+    - [Task-oriented Dialogue](#task-oriented-dialogue)  
+- [Transformer Series](#transformer-series)
 
 ## Bert Series
 
 * **BERT**: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1423) [[code]](https://github.com/google-research/bert)
 
-## Transformer Series
-
-* **Transformer**: Attention Is All You Need. NeurIPS-2017 [[pdf]](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
-
 ## Dialogue System
 
-### Task-oriented Dialogue
+### Dataset for Dialogue
 
-* **GLMP**: GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS
-FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://arxiv.org/pdf/1901.04713.pdf) [[code]](https://github.com/jasonwu0731/GLMP)
+* **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.04494.pdf) [[data]](https://github.com/Nealcly/MuTual)
 
 ### Open-domain Dialogue
 
@@ -50,6 +46,16 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **PERSONA-CHAT**: Personalizing Dialogue Agents: I have a dog, do you have pets too? ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1205.pdf)
 * **Persona-Based**: A Persona-Based Neural Conversation Model. ACL-2016 [[pdf]](https://www.aclweb.org/anthology/P16-1094.pdf) [[code]](https://github.com/fionn-mac/A-Persona-Based-Neural-Conversation-Model)
 
-## Dataset
+### Survey on Dialogue
 
-* **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.04494.pdf) [[data]](https://github.com/Nealcly/MuTual)
+* **Challenges**: Challenges in Building Intelligent Open-domain Dialog Systems. TOIS-2020 [[pdf]](https://arxiv.org/pdf/1905.05709.pdf)
+* **Recent Advances and New Frontiers**: A Survey on Dialogue Systems: Recent Advances and New Frontiers. SIGKDD-2017 [[pdf]](https://www.kdd.org/exploration_files/19-2-Article3.pdf)
+
+### Task-oriented Dialogue
+
+* **GLMP**: GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS
+FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://arxiv.org/pdf/1901.04713.pdf) [[code]](https://github.com/jasonwu0731/GLMP)
+
+## Transformer Series
+
+* **Transformer**: Attention Is All You Need. NeurIPS-2017 [[pdf]](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
