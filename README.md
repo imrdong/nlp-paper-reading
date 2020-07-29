@@ -43,6 +43,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **ResponseEdit**: Response Generation by Context-aware Prototype Editing. AAAI-2019 [[pdf]](https://arxiv.org/pdf/1806.07042.pdf) [[code]](https://github.com/MarkWuNLP/ResponseEdit)
 * **SeqGen**: Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework. EMNLP-2019 [[pdf]](https://www.aclweb.org/anthology/D19-1195.pdf) [[code]](https://github.com/jcyk/seqgen)
 * **Skeleton-to-Response**: Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1124.pdf)
+* **DRL**: Deep Reinforcement Learning for Dialogue Generation. EMNLP-2016 [[pdf]](https://www.aclweb.org/anthology/D16-1127.pdf)
 * **NCM**: A Neural Conversational Model. ICML-2015 [[pdf]](https://arxiv.org/pdf/1506.05869.pdf)
 
 ### Personalized Dialogue
