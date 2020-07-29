@@ -11,7 +11,8 @@
 
 - [Bert Series](#bert-series)
 - [Dialogue System](#dialogue-system)
-    - [Dataset for Dialogue](#dataset-for-dialogue) 
+    - [Dataset for Dialogue](#dataset-for-dialogue)
+    - [Evaluation of Dialogue](#evaluation-of-dialogue) 
     - [Open-domain Dialogue](#open-domain-dialogue)
     - [Personalized Dialogue](#personalized-dialogue)  
     - [Survey on Dialogue](#survey-on-dialogue)
@@ -26,7 +27,11 @@
 
 ### Dataset for Dialogue
 
-* **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.04494.pdf) [[data]](https://github.com/Nealcly/MuTual)
+* **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.04494.pdf) [[data]](https://github.com/Nealcly/MuTual)  
+
+### Evaluation of Dialogue
+
+* **Respnse Selection**: Evaluating Dialogue Generation Systems via Response Selection. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.55.pdf) [[test set]](https://github.com/cl-tohoku/eval-via-selection)
 
 ### Open-domain Dialogue
 
