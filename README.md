@@ -31,18 +31,18 @@
 
 ### Evaluation of Dialogue
 
-* **Respnse Selection**: Evaluating Dialogue Generation Systems via Response Selection. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.55.pdf) [[test set]](https://github.com/cl-tohoku/eval-via-selection)
+* **RS**: Evaluating Dialogue Generation Systems via Response Selection. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.55.pdf) [[test set]](https://github.com/cl-tohoku/eval-via-selection)
 
 ### Open-domain Dialogue
 
-* **Low-Resource**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://arxiv.org/pdf/2002.10348.pdf)
+* **Low-Resource KG**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://arxiv.org/pdf/2002.10348.pdf)
 * **PS**: Prototype-to-Style: Dialogue Generation
 with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.02214.pdf)
 * **RefNet**: A Reference-aware Network for Background Based Conversation. AAAI-2020 [[pdf]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet)
+* **Edit-N-Rerank**: Response Generation by Context-aware Prototype Editing. AAAI-2019 [[pdf]](https://arxiv.org/pdf/1806.07042.pdf) [[code]](https://github.com/MarkWuNLP/ResponseEdit)
 * **PostKS**: Learning to Select Knowledge for Response Generation in Dialog Systems. IJCAI-2019 [[pdf]](https://www.ijcai.org/proceedings/2019/0706.pdf) [[code]](https://github.com/bzantium/Posterior-Knowledge-Selection)
-* **ResponseEdit**: Response Generation by Context-aware Prototype Editing. AAAI-2019 [[pdf]](https://arxiv.org/pdf/1806.07042.pdf) [[code]](https://github.com/MarkWuNLP/ResponseEdit)
 * **SeqGen**: Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework. EMNLP-2019 [[pdf]](https://www.aclweb.org/anthology/D19-1195.pdf) [[code]](https://github.com/jcyk/seqgen)
-* **Skeleton-to-Response**: Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1124.pdf)
+* **SR**: Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1124.pdf)
 * **DRL**: Deep Reinforcement Learning for Dialogue Generation. EMNLP-2016 [[pdf]](https://www.aclweb.org/anthology/D16-1127.pdf)
 * **NCM**: A Neural Conversational Model. ICML-2015 [[pdf]](https://arxiv.org/pdf/1506.05869.pdf)
 
