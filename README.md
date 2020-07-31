@@ -7,7 +7,7 @@
 
 ## Paper Reading List in Natural Language Processing  
 
-## :blush:Table of Contents 
+## 🧐 Table of Contents
 
 - [Bert Series](#bert-series)
 - [Dialogue System](#dialogue-system)
