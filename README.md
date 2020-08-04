@@ -12,6 +12,7 @@
 - [Bert Series](#bert-series)
 - [Dialogue System](#dialogue-system)
     - [Dataset for Dialogue](#dataset-for-dialogue)
+    - [Emotional Dialogue](#emotional-dialogue)
     - [Evaluation of Dialogue](#evaluation-of-dialogue) 
     - [Open-domain Dialogue](#open-domain-dialogue)
     - [Personalized Dialogue](#personalized-dialogue)  
@@ -28,6 +29,10 @@
 ### Dataset for Dialogue
 
 * **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.04494.pdf) [[data]](https://github.com/Nealcly/MuTual)  
+
+### Emotional Dialogue
+
+* **MOJITALK**: MOJITALK: Generating Emotional Responses at Scale. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1104.pdf)
 
 ### Evaluation of Dialogue
 
