@@ -45,7 +45,6 @@
 with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.02214.pdf)
 * **RefNet**: A Reference-aware Network for Background Based Conversation. AAAI-2020 [[pdf]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet)
 * **Edit-N-Rerank**: Response Generation by Context-aware Prototype Editing. AAAI-2019 [[pdf]](https://arxiv.org/pdf/1806.07042.pdf) [[code]](https://github.com/MarkWuNLP/ResponseEdit)
-* **PAML**: Personalizing Dialogue Agents via Meta-Learning. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1542.pdf) [[code]](https://github.com/HLTCHKUST/PAML)
 * **PostKS**: Learning to Select Knowledge for Response Generation in Dialog Systems. IJCAI-2019 [[pdf]](https://www.ijcai.org/proceedings/2019/0706.pdf) [[code]](https://github.com/bzantium/Posterior-Knowledge-Selection)
 * **SeqGen**: Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework. EMNLP-2019 [[pdf]](https://www.aclweb.org/anthology/D19-1195.pdf) [[code]](https://github.com/jcyk/seqgen)
 * **SR**: Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1124.pdf)
@@ -57,6 +56,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **GDR**: Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.07672.pdf)
 * **PAGenerator**: Guiding Variational Response Generator to Exploit Persona. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.7.pdf)
 * **Persona-sparse**: A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data. AAAI-2020 [[pdf]](https://arxiv.org/pdf/1911.04700.pdf)
+* **PAML**: Personalizing Dialogue Agents via Meta-Learning. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1542.pdf) [[code]](https://github.com/HLTCHKUST/PAML)
 * **PERSONA-CHAT**: Personalizing Dialogue Agents: I have a dog, do you have pets too? ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1205.pdf)
 * **Persona-Based**: A Persona-Based Neural Conversation Model. ACL-2016 [[pdf]](https://www.aclweb.org/anthology/P16-1094.pdf) [[code]](https://github.com/fionn-mac/A-Persona-Based-Neural-Conversation-Model)
 
