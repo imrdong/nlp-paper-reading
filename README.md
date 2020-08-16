@@ -58,7 +58,8 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **Persona-sparse**: A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data. AAAI-2020 [[pdf]](https://arxiv.org/pdf/1911.04700.pdf)
 * **PAML**: Personalizing Dialogue Agents via Meta-Learning. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1542.pdf) [[code]](https://github.com/HLTCHKUST/PAML)
 * **PERSONA-CHAT**: Personalizing Dialogue Agents: I have a dog, do you have pets too? ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1205.pdf)
-* **Persona-Based**: A Persona-Based Neural Conversation Model. ACL-2016 [[pdf]](https://www.aclweb.org/anthology/P16-1094.pdf) [[code]](https://github.com/fionn-mac/A-Persona-Based-Neural-Conversation-Model)
+* **CoPerHED**: Exploring Personalized Neural Conversational Models. IJCAI-2017 [[pdf]](https://www.ijcai.org/proceedings/2017/0521.pdf)
+* **PerNCM**: A Persona-Based Neural Conversation Model. ACL-2016 [[pdf]](https://www.aclweb.org/anthology/P16-1094.pdf)
 
 ### Survey on Dialogue
 
