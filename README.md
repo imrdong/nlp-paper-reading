@@ -28,7 +28,7 @@
 
 ### Dataset for Dialogue
 
-* **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.04494.pdf) [[data]](https://github.com/Nealcly/MuTual)  
+* **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.130.pdf) [[data]](https://github.com/Nealcly/MuTual)  
 
 ### Emotional Dialogue
 
@@ -40,7 +40,7 @@
 
 ### Open-domain Dialogue
 
-* **Low-Resource KG**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://arxiv.org/pdf/2002.10348.pdf)
+* **Low-Resource KG**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://openreview.net/pdf?id=rJeIcTNtvS)
 * **PS**: Prototype-to-Style: Dialogue Generation
 with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.02214.pdf)
 * **RefNet**: A Reference-aware Network for Background Based Conversation. AAAI-2020 [[pdf]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet)
@@ -49,11 +49,11 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **SeqGen**: Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework. EMNLP-2019 [[pdf]](https://www.aclweb.org/anthology/D19-1195.pdf) [[code]](https://github.com/jcyk/seqgen)
 * **SR**: Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1124.pdf)
 * **DRL**: Deep Reinforcement Learning for Dialogue Generation. EMNLP-2016 [[pdf]](https://www.aclweb.org/anthology/D16-1127.pdf)
-* **NCM**: A Neural Conversational Model. ICML-2015 [[pdf]](https://arxiv.org/pdf/1506.05869.pdf)
+* **NCM**: A Neural Conversational Model. arXiv-2015 [[pdf]](https://arxiv.org/pdf/1506.05869.pdf)
 
 ### Personalized Dialogue
 
-* **GDR**: Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.07672.pdf)
+* **GDR**: Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.516.pdf)
 * **PAGenerator**: Guiding Variational Response Generator to Exploit Persona. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.7.pdf)
 * **Persona-sparse**: A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data. AAAI-2020 [[pdf]](https://arxiv.org/pdf/1911.04700.pdf)
 * **PAML**: Personalizing Dialogue Agents via Meta-Learning. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1542.pdf) [[code]](https://github.com/HLTCHKUST/PAML)
@@ -64,13 +64,13 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 
 ### Survey on Dialogue
 
-* **Challenges**: Challenges in Building Intelligent Open-domain Dialog Systems. TOIS-2020 [[pdf]](https://arxiv.org/pdf/1905.05709.pdf)
+* **Challenges**: Challenges in Building Intelligent Open-domain Dialog Systems. TOIS-2020 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3383123)
 * **Recent Advances and New Frontiers**: A Survey on Dialogue Systems: Recent Advances and New Frontiers. SIGKDD-2017 [[pdf]](https://www.kdd.org/exploration_files/19-2-Article3.pdf)
 
 ### Task-oriented Dialogue
 
 * **GLMP**: GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS
-FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://arxiv.org/pdf/1901.04713.pdf) [[code]](https://github.com/jasonwu0731/GLMP)
+FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://openreview.net/pdf?id=ryxnHhRqFm) [[code]](https://github.com/jasonwu0731/GLMP)
 
 ## Transformer Series
 
