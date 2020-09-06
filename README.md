@@ -50,6 +50,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **SR**: Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1124.pdf)
 * **CVAE**: Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders. ACL-2017 [[pdf]](https://www.aclweb.org/anthology/P17-1061.pdf)
 * **DRL**: Deep Reinforcement Learning for Dialogue Generation. EMNLP-2016 [[pdf]](https://www.aclweb.org/anthology/D16-1127.pdf)
+* **MMI**: A Diversity-Promoting Objective Function for Neural Conversation Models. NAACL-2016 [[pdf]](https://www.aclweb.org/anthology/N16-1014.pdf) 
 * **NCM**: A Neural Conversational Model. arXiv-2015 [[pdf]](https://arxiv.org/pdf/1506.05869.pdf)
 
 ### Personalized Dialogue
