@@ -70,6 +70,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 ### Survey on Dialogue
 
 * **Challenges**: Challenges in Building Intelligent Open-domain Dialog Systems. TOIS-2020 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3383123)
+* **Recipes**: Recipes for building an open-domain chatbot. arXiv-2020 [[pdf]](https://arxiv.org/pdf/2004.13637.pdf)
 * **Recent Advances and New Frontiers**: A Survey on Dialogue Systems: Recent Advances and New Frontiers. SIGKDD-2017 [[pdf]](https://www.kdd.org/exploration_files/19-2-Article3.pdf)
 
 ### Task-oriented Dialogue
