@@ -40,6 +40,7 @@
 
 ### Open-domain Dialogue
 
+* **Adp Multi-CL**: Learning from Easy to Complex: Adaptive Multi-Curricula Learning for Neural Dialogue Generation. AAAI-2020 [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6244)
 * **Low-Resource KG**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://openreview.net/pdf?id=rJeIcTNtvS)
 * **PS**: Prototype-to-Style: Dialogue Generation
 with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org/pdf/2004.02214.pdf)
