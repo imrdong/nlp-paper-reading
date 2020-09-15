@@ -63,10 +63,12 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **PAML**: Personalizing Dialogue Agents via Meta-Learning. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1542.pdf) [[code]](https://github.com/HLTCHKUST/PAML)
 * **PerCVAE**: Exploiting Persona Information for Diverse Generation of Conversational Responses. IJCAI-2019 [[pdf]](https://www.ijcai.org/Proceedings/2019/0721.pdf) [[code]](https://github.com/vsharecodes/percvae)
 * **PerDG**: Personalized Dialogue Generation with Diversified Traits. arXiv-2019 [[pdf]](https://arxiv.org/pdf/1901.09672.pdf)
+* **NPRG-DM**: Neural personalized response generation as domain adaptation. WWW-2018 [[pdf]](https://link.springer.com/content/pdf/10.1007/s11280-018-0598-6.pdf)
 * **PCCM**: Assigning Personality Profile to a Chatting Machine for Coherent Conversation Generation. IJCAI-2018 [[pdf]](https://www.ijcai.org/Proceedings/2018/0595.pdf)
 * **PerDA**: Training Millions of Personalized Dialogue Agents. EMNLP-2018 [[pdf]](https://www.aclweb.org/anthology/D18-1298.pdf)
 * **PERSONA-CHAT**: Personalizing Dialogue Agents: I have a dog, do you have pets too? ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1205.pdf)
 * **CoPerHED**: Exploring Personalized Neural Conversational Models. IJCAI-2017 [[pdf]](https://www.ijcai.org/proceedings/2017/0521.pdf)
+* **PRG-DM**: Personalized Response Generation via Domain adaptation. SIGIR-2017 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3077136.3080706)
 * **PerNCM**: A Persona-Based Neural Conversation Model. ACL-2016 [[pdf]](https://www.aclweb.org/anthology/P16-1094.pdf)
 
 ### Survey on Dialogue
