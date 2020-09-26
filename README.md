@@ -70,6 +70,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **CoPerHED**: Exploring Personalized Neural Conversational Models. IJCAI-2017 [[pdf]](https://www.ijcai.org/proceedings/2017/0521.pdf)
 * **PRG-DM**: Personalized Response Generation via Domain adaptation. SIGIR-2017 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3077136.3080706)
 * **PerNCM**: A Persona-Based Neural Conversation Model. ACL-2016 [[pdf]](https://www.aclweb.org/anthology/P16-1094.pdf)
+* **PERSONAGE**: PERSONAGE: Personality Generation for Dialogue. ACL-2007 [[pdf]](https://www.aclweb.org/anthology/P07-1063.pdf)
 
 ### Survey on Dialogue
 
