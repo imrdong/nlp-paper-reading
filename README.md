@@ -28,7 +28,8 @@
 
 ### Dataset for Dialogue
 
-* **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.130.pdf) [[data]](https://github.com/Nealcly/MuTual)  
+* **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.130.pdf) [[data]](https://github.com/Nealcly/MuTual)
+* **DailyDialog**: DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset. IJCNLP-2017 [[pdf]](https://www.aclweb.org/anthology/I17-1099.pdf) [[data]](http://yanran.li/dailydialog)  
 
 ### Emotional Dialogue
 
