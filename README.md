@@ -22,6 +22,7 @@
 
 ## Bert Series
 
+* **ALBERT**: ALBERT: A Lite BERT for Self-supervised Learning of Language Representations. ICLR-2020 [[pdf]](https://openreview.net/pdf?id=H1eA7AEtvS) [[code]](https://github.com/google-research/ALBERT)
 * **BERT**: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1423) [[code]](https://github.com/google-research/bert)
 
 ## Dialogue System
