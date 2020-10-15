@@ -1,9 +1,9 @@
 # NLP-Paper-Reading
 
 ![Language Markdown](https://img.shields.io/badge/Language-Markdown-red)
-[![License CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-blue.svg)](https://github.com/imrdon/nlp-paper-reading/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/imrdon/nlp-paper-reading.svg?style=social&label=Star&maxAge=10)](https://github.com/imrdon/nlp-paper-reading/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/imrdon/nlp-paper-reading?style=social&label=Fork&maxAge=10)](https://github.com/imrdon/nlp-paper-reading/network/members/)
+[![License CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-blue.svg)](https://github.com/imrdong/nlp-paper-reading/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/imrdong/nlp-paper-reading.svg?style=social&label=Star&maxAge=10)](https://github.com/imrdong/nlp-paper-reading/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/imrdong/nlp-paper-reading?style=social&label=Fork&maxAge=10)](https://github.com/imrdong/nlp-paper-reading/network/members/)
 
 ## Paper Reading List in Natural Language Processing  
 
@@ -89,4 +89,5 @@ FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://openreview.net/pdf?id=ryxn
 ## Transformer Series
 
 * **Transformer-XL**: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1285.pdf) [[code]](https://github.com/kimiyoung/transformer-xl)
+* **Universal Transformers**: UNIVERSAL TRANSFORMERS. ICLR-2019 [[pdf]](https://openreview.net/pdf?id=HyzdRiR9Y7) [[code]](https://github.com/tensorflow/tensor2tensor)
 * **Transformer**: Attention Is All You Need. NeurIPS-2017 [[pdf]](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
