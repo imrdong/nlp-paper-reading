@@ -40,6 +40,7 @@
 ### Evaluation of Dialogue
 
 * **RS**: Evaluating Dialogue Generation Systems via Response Selection. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.55.pdf) [[test set]](https://github.com/cl-tohoku/eval-via-selection)
+* **BLEU**: BLEU: a Method for Automatic Evaluation of Machine Translation. ACL-2002 [[pdf]](https://www.aclweb.org/anthology/P02-1040.pdf)
 
 ### Open-domain Dialogue
 
