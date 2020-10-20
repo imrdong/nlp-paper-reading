@@ -89,6 +89,7 @@ FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://openreview.net/pdf?id=ryxn
 
 ## Transformer Series
 
+* **GRET**: GRET: Global Representation Enhanced Transformer. AAAI-2020 [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6464)
 * **Reformer**: REFORMER: THE EFFICIENT TRANSFORMER. ICLR-2020 [[pdf]](https://openreview.net/pdf?id=rkgNKkHtvB) [[code]](https://github.com/google/trax/tree/master/trax/models/reformer)
 * **Transformer-XL**: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1285.pdf) [[code]](https://github.com/kimiyoung/transformer-xl)
 * **Universal Transformers**: UNIVERSAL TRANSFORMERS. ICLR-2019 [[pdf]](https://openreview.net/pdf?id=HyzdRiR9Y7) [[code]](https://github.com/tensorflow/tensor2tensor)
