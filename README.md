@@ -85,8 +85,8 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 
 ### Task-oriented Dialogue
 
-* **GLMP**: GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS
-FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://openreview.net/pdf?id=ryxnHhRqFm) [[code]](https://github.com/jasonwu0731/GLMP)
+* **GLMP**: GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://openreview.net/pdf?id=ryxnHhRqFm) [[code]](https://github.com/jasonwu0731/GLMP)
+* **Mem2Seq**: Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1136.pdf) [[code]](https://github.com/HLTCHKUST/Mem2Seq)
 
 ## Transformer Series
 
