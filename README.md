@@ -89,6 +89,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **GLMP**: GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://openreview.net/pdf?id=ryxnHhRqFm) [[code]](https://github.com/jasonwu0731/GLMP)
 * **KB Retriever**: Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever. EMNLP-2019 [[pdf]](https://www.aclweb.org/anthology/D19-1013.pdf) [[data]](https://github.com/yizhen20133868/Retriever-Dialogue)
 * **TRADE**: Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1078.pdf) [[code]](https://github.com/jasonwu0731/trade-dst)
+* **DSR**: Sequence-to-Sequence Learning for Task-oriented Dialogue with Dialogue State Representation. COLING-2018 [[pdf]](https://www.aclweb.org/anthology/C18-1320.pdf)
 * **Mem2Seq**: Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1136.pdf) [[code]](https://github.com/HLTCHKUST/Mem2Seq)
 
 ## Transformer Series
