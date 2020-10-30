@@ -86,6 +86,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 ### Task-oriented Dialogue
 
 * **DF-Net**: Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.565.pdf) [[code]](https://github.com/LooperXX/DF-Net)
+* **BossNet**: Disentangling Language and Knowledge in Task-Oriented Dialogs. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1126.pdf) [[code]](https://github.com/dair-iitd/BossNet)
 * **GLMP**: GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS FOR TASK-ORIENTED DIALOGUE. ICLR-2019 [[pdf]](https://openreview.net/pdf?id=ryxnHhRqFm) [[code]](https://github.com/jasonwu0731/GLMP)
 * **KB Retriever**: Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever. EMNLP-2019 [[pdf]](https://www.aclweb.org/anthology/D19-1013.pdf) [[data]](https://github.com/yizhen20133868/Retriever-Dialogue)
 * **TRADE**: Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1078.pdf) [[code]](https://github.com/jasonwu0731/trade-dst)
