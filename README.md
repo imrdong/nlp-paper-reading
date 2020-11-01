@@ -92,6 +92,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **TRADE**: Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1078.pdf) [[code]](https://github.com/jasonwu0731/trade-dst)
 * **DSR**: Sequence-to-Sequence Learning for Task-oriented Dialogue with Dialogue State Representation. COLING-2018 [[pdf]](https://www.aclweb.org/anthology/C18-1320.pdf)
 * **Mem2Seq**: Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1136.pdf) [[code]](https://github.com/HLTCHKUST/Mem2Seq)
+* **StateNet**: Towards Universal Dialogue State Tracking. EMNLP-2018 [[pdf]](https://www.aclweb.org/anthology/D18-1299.pdf)
 * **TSCP**: Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1133.pdf) [[code]](https://github.com/WING-NUS/sequicity)
 
 ## Transformer Series
