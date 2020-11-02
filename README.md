@@ -25,6 +25,7 @@
 * **ALBERT**: ALBERT: A Lite BERT for Self-supervised Learning of Language Representations. ICLR-2020 [[pdf]](https://openreview.net/pdf?id=H1eA7AEtvS) [[code]](https://github.com/google-research/ALBERT)
 * **BERT**: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1423) [[code]](https://github.com/google-research/bert)
 * **ERNIE**: ERNIE: Enhanced Language Representation with Informative Entities. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1139.pdf) [[code]](https://github.com/thunlp/ERNIE)
+* **Interpret_BERT**: What does BERT learn about the structure of language? ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1356.pdf) [[code]](https://github.com/ganeshjawahar/interpret_bert)
 * **XLNet**: XLNet: Generalized Autoregressive Pretraining for Language Understanding. NeurIPS-2019 [[pdf]](http://papers.nips.cc/paper/8812-xlnet-generalized-autoregressive-pretraining-for-language-understanding.pdf) [[code]](https://github.com/zihangdai/xlnet)
 
 ## Dialogue System
