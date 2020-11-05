@@ -9,7 +9,6 @@
 
 ## 🧐 Table of Contents
 
-- [Bert Series](#bert-series)
 - [Dialogue System](#dialogue-system)
     - [Dataset for Dialogue](#dataset-for-dialogue)
     - [Emotional Dialogue](#emotional-dialogue)
@@ -17,17 +16,10 @@
     - [Open-domain Dialogue](#open-domain-dialogue)
     - [Personalized Dialogue](#personalized-dialogue)  
     - [Survey on Dialogue](#survey-on-dialogue)
-    - [Task-oriented Dialogue](#task-oriented-dialogue)  
+    - [Task-oriented Dialogue](#task-oriented-dialogue)
+- [Pre-trained Language Model](#pre-trained-language-model)  
 - [Transformer Series](#transformer-series)
 - [Word Embedding](#word-embedding)
-
-## Bert Series
-
-* **ALBERT**: ALBERT: A Lite BERT for Self-supervised Learning of Language Representations. ICLR-2020 [[pdf]](https://openreview.net/pdf?id=H1eA7AEtvS) [[code]](https://github.com/google-research/ALBERT)
-* **BERT**: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1423) [[code]](https://github.com/google-research/bert)
-* **ERNIE**: ERNIE: Enhanced Language Representation with Informative Entities. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1139.pdf) [[code]](https://github.com/thunlp/ERNIE)
-* **Interpret_BERT**: What does BERT learn about the structure of language? ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1356.pdf) [[code]](https://github.com/ganeshjawahar/interpret_bert)
-* **XLNet**: XLNet: Generalized Autoregressive Pretraining for Language Understanding. NeurIPS-2019 [[pdf]](http://papers.nips.cc/paper/8812-xlnet-generalized-autoregressive-pretraining-for-language-understanding.pdf) [[code]](https://github.com/zihangdai/xlnet)
 
 ## Dialogue System
 
@@ -97,6 +89,14 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **Mem2Seq**: Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1136.pdf) [[code]](https://github.com/HLTCHKUST/Mem2Seq)
 * **StateNet**: Towards Universal Dialogue State Tracking. EMNLP-2018 [[pdf]](https://www.aclweb.org/anthology/D18-1299.pdf)
 * **TSCP**: Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1133.pdf) [[code]](https://github.com/WING-NUS/sequicity)
+
+## Pre-trained Language Model
+
+* **ALBERT**: ALBERT: A Lite BERT for Self-supervised Learning of Language Representations. ICLR-2020 [[pdf]](https://openreview.net/pdf?id=H1eA7AEtvS) [[code]](https://github.com/google-research/ALBERT)
+* **BERT**: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1423) [[code]](https://github.com/google-research/bert)
+* **ERNIE**: ERNIE: Enhanced Language Representation with Informative Entities. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1139.pdf) [[code]](https://github.com/thunlp/ERNIE)
+* **Interpret_BERT**: What does BERT learn about the structure of language? ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1356.pdf) [[code]](https://github.com/ganeshjawahar/interpret_bert)
+* **XLNet**: XLNet: Generalized Autoregressive Pretraining for Language Understanding. NeurIPS-2019 [[pdf]](http://papers.nips.cc/paper/8812-xlnet-generalized-autoregressive-pretraining-for-language-understanding.pdf) [[code]](https://github.com/zihangdai/xlnet)
 
 ## Transformer Series
 
