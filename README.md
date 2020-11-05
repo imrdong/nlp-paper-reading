@@ -19,6 +19,7 @@
     - [Survey on Dialogue](#survey-on-dialogue)
     - [Task-oriented Dialogue](#task-oriented-dialogue)  
 - [Transformer Series](#transformer-series)
+- [Word Embedding](#word-embedding)
 
 ## Bert Series
 
@@ -104,3 +105,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **Transformer-XL**: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1285.pdf) [[code]](https://github.com/kimiyoung/transformer-xl)
 * **Universal Transformers**: UNIVERSAL TRANSFORMERS. ICLR-2019 [[pdf]](https://openreview.net/pdf?id=HyzdRiR9Y7) [[code]](https://github.com/tensorflow/tensor2tensor)
 * **Transformer**: Attention Is All You Need. NeurIPS-2017 [[pdf]](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+
+## Word Embedding
+
+* **Glove**: GloVe: Global Vectors for Word Representation. EMNLP-2014 [[pdf]](https://www.aclweb.org/anthology/D14-1162.pdf) [[code]](https://github.com/stanfordnlp/GloVe)
