@@ -109,4 +109,5 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 ## Word Embedding
 
 * **Glove**: GloVe: Global Vectors for Word Representation. EMNLP-2014 [[pdf]](https://www.aclweb.org/anthology/D14-1162.pdf) [[code]](https://github.com/stanfordnlp/GloVe)
-* **Word2Vec**: Efficient Estimation of Word Representations in Vector Space. ICLR Workshop Poster-2013 [[pdf]](https://arxiv.org/pdf/1301.3781.pdf) [[code]](https://code.google.com/p/word2vec/)
+* **Word2Vec-Extension**: Distributed Representations of Words and Phrases and their Compositionality. NIPS-2013 [[pdf]](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
+* **Word2Vec-Oringinal**: Efficient Estimation of Word Representations in Vector Space. ICLR Workshop Poster-2013 [[pdf]](https://arxiv.org/pdf/1301.3781.pdf) [[code]](https://code.google.com/p/word2vec/)
