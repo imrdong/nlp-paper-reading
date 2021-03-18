@@ -63,6 +63,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **P<sup>2</sup> Bot**: You Impress Me: Dialogue Generation via Mutual Persona Perception. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.131.pdf) [[code]](https://github.com/SivilTaram/Persona-Dialogue-Generation)
 * **PAGenerator**: Guiding Variational Response Generator to Exploit Persona. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.7.pdf)
 * **Persona-sparse**: A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data. AAAI-2020 [[pdf]](https://arxiv.org/pdf/1911.04700.pdf)
+* **Self-Consciousness**: Will I Sound Like Me? Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness. EMNLP-2020 [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.65.pdf) [[code]](https://github.com/skywalker023/pragmatic-consistency)
 * **PAML**: Personalizing Dialogue Agents via Meta-Learning. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1542.pdf) [[code]](https://github.com/HLTCHKUST/PAML)
 * **PerCVAE**: Exploiting Persona Information for Diverse Generation of Conversational Responses. IJCAI-2019 [[pdf]](https://www.ijcai.org/Proceedings/2019/0721.pdf) [[code]](https://github.com/vsharecodes/percvae)
 * **PerDG**: Personalized Dialogue Generation with Diversified Traits. arXiv-2019 [[pdf]](https://arxiv.org/pdf/1901.09672.pdf)
