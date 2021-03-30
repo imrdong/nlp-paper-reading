@@ -51,6 +51,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 * **PostKS**: Learning to Select Knowledge for Response Generation in Dialog Systems. IJCAI-2019 [[pdf]](https://www.ijcai.org/proceedings/2019/0706.pdf) [[code]](https://github.com/bzantium/Posterior-Knowledge-Selection)
 * **SeqGen**: Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework. EMNLP-2019 [[pdf]](https://www.aclweb.org/anthology/D19-1195.pdf) [[code]](https://github.com/jcyk/seqgen)
 * **SR**: Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1124.pdf)
+* **NKD**: Knowledge Diffusion for Neural Dialogue Generation. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1138.pdf) [[code]](https://github.com/liushuman/neural-knowledge-diffusion)
 * **CVAE**: Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders. ACL-2017 [[pdf]](https://www.aclweb.org/anthology/P17-1061.pdf)
 * **DRL**: Deep Reinforcement Learning for Dialogue Generation. EMNLP-2016 [[pdf]](https://www.aclweb.org/anthology/D16-1127.pdf)
 * **MMI**: A Diversity-Promoting Objective Function for Neural Conversation Models. NAACL-2016 [[pdf]](https://www.aclweb.org/anthology/N16-1014.pdf) 
