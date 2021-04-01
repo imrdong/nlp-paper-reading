@@ -59,6 +59,7 @@ with Style-Aware Editing on Retrieval Memory. ACL-2020 [[pdf]](https://arxiv.org
 
 ### Personalized Dialogue
 
+* **GCC**: Large Scale Multi-Actor Generative Dialog Modeling. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.8.pdf)
 * **GDR**: Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.516.pdf)
 * **KvPI**: Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents. EMNLP-2020 [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.539.pdf) [[code]](https://github.com/songhaoyu/KvPI)
 * **P<sup>2</sup> Bot**: You Impress Me: Dialogue Generation via Mutual Persona Perception. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.131.pdf) [[code]](https://github.com/SivilTaram/Persona-Dialogue-Generation)
