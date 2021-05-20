@@ -10,6 +10,7 @@
 ## 🧐 Table of Contents
 
 - [Dialogue System](#dialogue-system)
+    - [Background Based Conversation](#background-based-conversation)
     - [Dataset for Dialogue](#dataset-for-dialogue)
     - [Emotional Dialogue](#emotional-dialogue)
     - [Evaluation of Dialogue](#evaluation-of-dialogue) 
@@ -22,6 +23,10 @@
 - [Word Embedding](#word-embedding)
 
 ## Dialogue System
+
+### Background Based Conversation
+
+* **GLKS**: Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6395) [[code]](https://github.com/PengjieRen/GLKS)
 
 ### Dataset for Dialogue
 
