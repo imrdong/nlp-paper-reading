@@ -27,6 +27,7 @@
 ### Background Based Conversation
 
 * **GLKS**: Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6395) [[code]](https://github.com/PengjieRen/GLKS)
+* **RefNet**: RefNet: A Reference-Aware Network for Background Based Conversation. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6370) [[code]](https://github.com/ChuanMeng/RefNet)
 
 ### Dataset for Dialogue
 
@@ -50,7 +51,6 @@
 * **DialogRPT**: Dialogue Response Ranking Training with Large-Scale Human Feedback Data. EMNLP-2020 [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.28.pdf) [[code]](https://github.com/golsun/DialogRPT)
 * **Low-Resource KG**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://openreview.net/pdf?id=rJeIcTNtvS)
 * **PS**: Prototype-to-Style: Dialogue Generation with Style-Aware Editing on Retrieval Memory. arXiv-2020 [[pdf]](https://arxiv.org/pdf/2004.02214.pdf)
-* **RefNet**: RefNet: A Reference-Aware Network for Background Based Conversation. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6370) [[code]](https://github.com/ChuanMeng/RefNet)
 * **Edit-N-Rerank**: Response Generation by Context-aware Prototype Editing. AAAI-2019 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/4714) [[code]](https://github.com/MarkWuNLP/ResponseEdit)
 * **PostKS**: Learning to Select Knowledge for Response Generation in Dialog Systems. IJCAI-2019 [[pdf]](https://www.ijcai.org/proceedings/2019/0706.pdf) [[code]](https://github.com/bzantium/Posterior-Knowledge-Selection)
 * **SeqGen**: Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework. EMNLP-2019 [[pdf]](https://www.aclweb.org/anthology/D19-1195.pdf) [[code]](https://github.com/jcyk/seqgen)
