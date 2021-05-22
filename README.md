@@ -19,6 +19,8 @@
     - [Survey on Dialogue](#survey-on-dialogue)
     - [Task-oriented Dialogue](#task-oriented-dialogue)
 - [Pre-trained Language Model](#pre-trained-language-model)  
+- [Text Summarization](#text-summarization)
+    - [Abstractive](#abstractive)
 - [Transformer Series](#transformer-series)
 - [Word Embedding](#word-embedding)
 
@@ -110,6 +112,12 @@
 * **Interpret_BERT**: What does BERT learn about the structure of language? ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1356.pdf) [[code]](https://github.com/ganeshjawahar/interpret_bert)
 * **UniLM**: Unified Language Model Pre-training for Natural Language Understanding and Generation. NeurIPS-2019 [[pdf]](https://proceedings.neurips.cc/paper/2019/file/c20bb2d9a50d5ac1f713f8b34d9aac5a-Paper.pdf) [[code]](https://github.com/microsoft/unilm)
 * **XLNet**: XLNet: Generalized Autoregressive Pretraining for Language Understanding. NeurIPS-2019 [[pdf]](http://papers.nips.cc/paper/8812-xlnet-generalized-autoregressive-pretraining-for-language-understanding.pdf) [[code]](https://github.com/zihangdai/xlnet)
+
+## Text Summarization
+
+### Abstractive
+
+* **GTTP**: Get To The Point: Summarization with Pointer-Generator Networks. ACL-2017 [[pdf]](https://www.aclweb.org/anthology/P17-1099.pdf) [[code]](https://github.com/abisee/pointer-generator)
 
 ## Transformer Series
 
