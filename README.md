@@ -28,6 +28,7 @@
 
 * **GLKS**: Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6395) [[code]](https://github.com/PengjieRen/GLKS)
 * **RefNet**: RefNet: A Reference-Aware Network for Background Based Conversation. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6370) [[code]](https://github.com/ChuanMeng/RefNet)
+* **CaKe**: Improving Background Based Conversation with Context-aware Knowledge Pre-selection. arXiv-2019 [[pdf]](https://arxiv.org/abs/1906.06685) [[code]](https://github.com/repozhang/bbc-pre-selection)
 
 ### Dataset for Dialogue
 
