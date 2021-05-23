@@ -14,6 +14,7 @@
     - [Dataset for Dialogue](#dataset-for-dialogue)
     - [Emotional Dialogue](#emotional-dialogue)
     - [Evaluation of Dialogue](#evaluation-of-dialogue) 
+    - [Knowledge Grounded Dialogue](#knowledge-grounded-dialogue)
     - [Open-domain Dialogue](#open-domain-dialogue)
     - [Personalized Dialogue](#personalized-dialogue)  
     - [Survey on Dialogue](#survey-on-dialogue)
@@ -48,17 +49,21 @@
 * **RS**: Evaluating Dialogue Generation Systems via Response Selection. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.55.pdf) [[test set]](https://github.com/cl-tohoku/eval-via-selection)
 * **BLEU**: BLEU: a Method for Automatic Evaluation of Machine Translation. ACL-2002 [[pdf]](https://www.aclweb.org/anthology/P02-1040.pdf)
 
+### Knowledge Grounded Dialogue
+
+* **Low-Resource KG**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://openreview.net/pdf?id=rJeIcTNtvS)
+* **PostKS**: Learning to Select Knowledge for Response Generation in Dialog Systems. IJCAI-2019 [[pdf]](https://www.ijcai.org/proceedings/2019/0706.pdf) [[code]](https://github.com/bzantium/Posterior-Knowledge-Selection)
+* **Mem2Seq**: Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1136.pdf) [[code]](https://github.com/HLTCHKUST/Mem2Seq)
+* **NKD**: Knowledge Diffusion for Neural Dialogue Generation. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1138.pdf) [[code]](https://github.com/liushuman/neural-knowledge-diffusion)
+
 ### Open-domain Dialogue
 
 * **Adp Multi-CL**: Learning from Easy to Complex: Adaptive Multi-Curricula Learning for Neural Dialogue Generation. AAAI-2020 [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6244)
 * **DialogRPT**: Dialogue Response Ranking Training with Large-Scale Human Feedback Data. EMNLP-2020 [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.28.pdf) [[code]](https://github.com/golsun/DialogRPT)
-* **Low-Resource KG**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://openreview.net/pdf?id=rJeIcTNtvS)
 * **PS**: Prototype-to-Style: Dialogue Generation with Style-Aware Editing on Retrieval Memory. arXiv-2020 [[pdf]](https://arxiv.org/pdf/2004.02214.pdf)
 * **Edit-N-Rerank**: Response Generation by Context-aware Prototype Editing. AAAI-2019 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/4714) [[code]](https://github.com/MarkWuNLP/ResponseEdit)
-* **PostKS**: Learning to Select Knowledge for Response Generation in Dialog Systems. IJCAI-2019 [[pdf]](https://www.ijcai.org/proceedings/2019/0706.pdf) [[code]](https://github.com/bzantium/Posterior-Knowledge-Selection)
 * **SeqGen**: Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework. EMNLP-2019 [[pdf]](https://www.aclweb.org/anthology/D19-1195.pdf) [[code]](https://github.com/jcyk/seqgen)
 * **SR**: Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1124.pdf)
-* **NKD**: Knowledge Diffusion for Neural Dialogue Generation. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1138.pdf) [[code]](https://github.com/liushuman/neural-knowledge-diffusion)
 * **CVAE**: Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders. ACL-2017 [[pdf]](https://www.aclweb.org/anthology/P17-1061.pdf)
 * **DRL**: Deep Reinforcement Learning for Dialogue Generation. EMNLP-2016 [[pdf]](https://www.aclweb.org/anthology/D16-1127.pdf)
 * **MMI**: A Diversity-Promoting Objective Function for Neural Conversation Models. NAACL-2016 [[pdf]](https://www.aclweb.org/anthology/N16-1014.pdf) 
@@ -100,7 +105,6 @@
 * **KB Retriever**: Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever. EMNLP-2019 [[pdf]](https://www.aclweb.org/anthology/D19-1013.pdf) [[data]](https://github.com/yizhen20133868/Retriever-Dialogue)
 * **TRADE**: Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1078.pdf) [[code]](https://github.com/jasonwu0731/trade-dst)
 * **DSR**: Sequence-to-Sequence Learning for Task-oriented Dialogue with Dialogue State Representation. COLING-2018 [[pdf]](https://www.aclweb.org/anthology/C18-1320.pdf)
-* **Mem2Seq**: Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1136.pdf) [[code]](https://github.com/HLTCHKUST/Mem2Seq)
 * **StateNet**: Towards Universal Dialogue State Tracking. EMNLP-2018 [[pdf]](https://www.aclweb.org/anthology/D18-1299.pdf)
 * **TSCP**: Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1133.pdf) [[code]](https://github.com/WING-NUS/sequicity)
 
