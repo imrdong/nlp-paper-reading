@@ -37,6 +37,7 @@
 ### Dataset for Dialogue
 
 * **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.130.pdf) [[data]](https://github.com/Nealcly/MuTual)
+* **Wizard of Wikipedia**: Wizard of Wikipedia: Knowledge-Powered Conversational Agents. ICLR-2019 [[pdf]](https://openreview.net/forum?id=r1l73iRqKm) [[data]](https://parl.ai/projects/wizard_of_wikipedia/)
 * **DailyDialog**: DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset. IJCNLP-2017 [[pdf]](https://www.aclweb.org/anthology/I17-1099.pdf) [[data]](http://yanran.li/dailydialog)  
 * **Douban Conversation Corpus**: Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots. ACL-2017 [[pdf]](https://www.aclweb.org/anthology/P17-1046.pdf) [[data]](https://github.com/MarkWuNLP/MultiTurnResponseSelection)  
 * **Ubuntu Dialogue Corpus**: The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems. SIGDIAL-2015 [[pdf]](https://www.aclweb.org/anthology/W15-4640.pdf) [[data]](http://www.cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0)  
