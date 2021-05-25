@@ -32,12 +32,13 @@
 * **GLKS**: Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6395) [[code]](https://github.com/PengjieRen/GLKS)
 * **RefNet**: RefNet: A Reference-Aware Network for Background Based Conversation. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6370) [[code]](https://github.com/ChuanMeng/RefNet)
 * **CaKe**: Improving Background Based Conversation with Context-aware Knowledge Pre-selection. arXiv-2019 [[pdf]](https://arxiv.org/abs/1906.06685) [[code]](https://github.com/repozhang/bbc-pre-selection)
-* **Holl-E**: Towards Exploiting Background Knowledge for Building Conversation Systems. EMNLP-2018 [[pdf]](https://www.aclweb.org/anthology/D18-1255/) [[code]](https://github.com/nikitacs16/Holl-E)
 
 ### Dataset for Dialogue
 
 * **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.130.pdf) [[data]](https://github.com/Nealcly/MuTual)
 * **Wizard of Wikipedia**: Wizard of Wikipedia: Knowledge-Powered Conversational Agents. ICLR-2019 [[pdf]](https://openreview.net/forum?id=r1l73iRqKm) [[data]](https://parl.ai/projects/wizard_of_wikipedia/)
+* **Holl-E**: Towards Exploiting Background Knowledge for Building Conversation Systems. EMNLP-2018 [[pdf]](https://www.aclweb.org/anthology/D18-1255/) [[code]](https://github.com/nikitacs16/Holl-E)
+* **PERSONA-CHAT**: Personalizing Dialogue Agents: I have a dog, do you have pets too? ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1205.pdf)
 * **DailyDialog**: DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset. IJCNLP-2017 [[pdf]](https://www.aclweb.org/anthology/I17-1099.pdf) [[data]](http://yanran.li/dailydialog)  
 * **Douban Conversation Corpus**: Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots. ACL-2017 [[pdf]](https://www.aclweb.org/anthology/P17-1046.pdf) [[data]](https://github.com/MarkWuNLP/MultiTurnResponseSelection)  
 * **Ubuntu Dialogue Corpus**: The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems. SIGDIAL-2015 [[pdf]](https://www.aclweb.org/anthology/W15-4640.pdf) [[data]](http://www.cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0)  
@@ -87,7 +88,6 @@
 * **NPRG-DM**: Neural personalized response generation as domain adaptation. WWW-2018 [[pdf]](https://link.springer.com/content/pdf/10.1007/s11280-018-0598-6.pdf)
 * **PCCM**: Assigning Personality Profile to a Chatting Machine for Coherent Conversation Generation. IJCAI-2018 [[pdf]](https://www.ijcai.org/Proceedings/2018/0595.pdf)
 * **PerDA**: Training Millions of Personalized Dialogue Agents. EMNLP-2018 [[pdf]](https://www.aclweb.org/anthology/D18-1298.pdf)
-* **PERSONA-CHAT**: Personalizing Dialogue Agents: I have a dog, do you have pets too? ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1205.pdf)
 * **CoPerHED**: Exploring Personalized Neural Conversational Models. IJCAI-2017 [[pdf]](https://www.ijcai.org/proceedings/2017/0521.pdf)
 * **PRG-DM**: Personalized Response Generation via Domain adaptation. SIGIR-2017 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3077136.3080706)
 * **PerNCM**: A Persona-Based Neural Conversation Model. ACL-2016 [[pdf]](https://www.aclweb.org/anthology/P16-1094.pdf)
