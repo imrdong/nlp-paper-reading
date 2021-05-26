@@ -80,6 +80,7 @@
 * **KvPI**: Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents. EMNLP-2020 [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.539.pdf) [[code]](https://github.com/songhaoyu/KvPI)
 * **P<sup>2</sup> Bot**: You Impress Me: Dialogue Generation via Mutual Persona Perception. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.131.pdf) [[code]](https://github.com/SivilTaram/Persona-Dialogue-Generation)
 * **PAGenerator**: Guiding Variational Response Generator to Exploit Persona. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.7.pdf)
+* **PEE**: A Neural Topical Expansion Framework for Unstructured Persona-Oriented Dialogue Generation. ECAI-2020 [[pdf]](https://ebooks.iospress.nl/publication/55146)
 * **Persona-sparse**: A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6518)
 * **Self-Consciousness**: Will I Sound Like Me? Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness. EMNLP-2020 [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.65.pdf) [[code]](https://github.com/skywalker023/pragmatic-consistency)
 * **PAML**: Personalizing Dialogue Agents via Meta-Learning. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1542.pdf) [[code]](https://github.com/HLTCHKUST/PAML)
