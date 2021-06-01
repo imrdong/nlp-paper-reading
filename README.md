@@ -56,6 +56,7 @@
 ### Knowledge Grounded Dialogue
 
 * **ConKADI**: Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.515/) [[code]](https://github.com/pku-sixing/ACL2020-ConKADI)
+* **Div-Non-Conv**: Diversifying Dialogue Generation with Non-Conversational Text. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.634/) [[code]](https://github.com/chin-gyou/Div-Non-Conv)
 * **KIC**: Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.6/)
 * **Low-Resource KG**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://openreview.net/forum?id=rJeIcTNtvS)
 * **PIPM-KDBTS**: Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation. EMNLP-2020 [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.275/) [[code]](https://github.com/youngornever/bridge_latent_knowledge_selection_gap_for_conversation)
