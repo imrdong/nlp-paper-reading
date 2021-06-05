@@ -38,6 +38,7 @@
 * **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.130/) [[data]](https://github.com/Nealcly/MuTual)
 * **Wizard of Wikipedia**: Wizard of Wikipedia: Knowledge-Powered Conversational Agents. ICLR-2019 [[pdf]](https://openreview.net/forum?id=r1l73iRqKm) [[data]](https://parl.ai/projects/wizard_of_wikipedia/)
 * **Holl-E**: Towards Exploiting Background Knowledge for Building Conversation Systems. EMNLP-2018 [[pdf]](https://www.aclweb.org/anthology/D18-1255/) [[code]](https://github.com/nikitacs16/Holl-E)
+* **OpenSubtitles2018**: OpenSubtitles2018: Statistical Rescoring of Sentence Alignments in Large, Noisy Parallel Corpora. LREC-2018 [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/summaries/294.html) [[data]](https://opus.nlpl.eu/OpenSubtitles2018.php)
 * **PERSONA-CHAT**: Personalizing Dialogue Agents: I have a dog, do you have pets too? ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1205/)
 * **DailyDialog**: DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset. IJCNLP-2017 [[pdf]](https://www.aclweb.org/anthology/I17-1099/) [[data]](http://yanran.li/dailydialog)
 * **Douban Conversation Corpus**: Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots. ACL-2017 [[pdf]](https://www.aclweb.org/anthology/P17-1046/) [[data]](https://github.com/MarkWuNLP/MultiTurnResponseSelection)
