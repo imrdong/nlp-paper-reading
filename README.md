@@ -113,6 +113,7 @@
 
 ### Task-oriented Dialogue
 
+* **DDMN**: Dual Dynamic Memory Network for End-to-End Multi-turn Task-oriented Dialog Systems. COLING-2020 [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.362/) [[code]](https://github.com/siat-nlp/DDMN)
 * **DF-Net**: Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.565/) [[code]](https://github.com/LooperXX/DF-Net)
 * **MALA**: MALA: Cross-Domain Dialogue Generation with Action Learning. AAAI-2020 [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6306)
 * **BossNet**: Disentangling Language and Knowledge in Task-Oriented Dialogs. NAACL-2019 [[pdf]](https://www.aclweb.org/anthology/N19-1126/) [[code]](https://github.com/dair-iitd/BossNet)
