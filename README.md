@@ -85,6 +85,7 @@
 
 ### Personalized Dialogue
 
+* **FewShot-PCM**: Learning from My Friends: Few-Shot Personalized Conversation Systems via Social Networks. AAAI-2021 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/17638) [[code]](https://github.com/tianzhiliang/FewShotPersonaConvData)
 * **GCC**: Large Scale Multi-Actor Generative Dialog Modeling. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.8/)
 * **GDR**: Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.516/)
 * **KvPI**: Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents. EMNLP-2020 [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.539/) [[code]](https://github.com/songhaoyu/KvPI)
