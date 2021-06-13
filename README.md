@@ -59,6 +59,7 @@
 
 ### Knowledge Grounded Dialogue
 
+* **HADG**: Knowledge-aware Dialogue Generation with Hybrid Attention (Student Abstract). AAAI-2021 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/17972)
 * **ConKADI**: Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.515/) [[code]](https://github.com/pku-sixing/ACL2020-ConKADI)
 * **Div-Non-Conv**: Diversifying Dialogue Generation with Non-Conversational Text. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.634/) [[code]](https://github.com/chin-gyou/Div-Non-Conv)
 * **KIC**: Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.6/)
