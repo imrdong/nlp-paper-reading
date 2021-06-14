@@ -65,6 +65,7 @@
 * **KIC**: Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.6/)
 * **Low-Resource KG**: Low-Resource Knowledge-Grounded Dialogue Generation. ICLR-2020 [[pdf]](https://openreview.net/forum?id=rJeIcTNtvS)
 * **PIPM-KDBTS**: Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation. EMNLP-2020 [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.275/) [[code]](https://github.com/youngornever/bridge_latent_knowledge_selection_gap_for_conversation)
+* **TransDG**: Improving Knowledge-Aware Dialogue Generation via Knowledge Base Question Answering. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6453) [[code]](https://github.com/siat-nlp/TransDG)
 * **ZRKGC**: Zero-Resource Knowledge-Grounded Dialogue Generation. NeurIPS-2020 [[pdf]](https://proceedings.neurips.cc/paper/2020/hash/609c5e5089a9aa967232aba2a4d03114-Abstract.html) [[code]](https://github.com/nlpxucan/ZRKGC)
 * **PostKS**: Learning to Select Knowledge for Response Generation in Dialog Systems. IJCAI-2019 [[pdf]](https://www.ijcai.org/proceedings/2019/0706/) [[code]](https://github.com/bzantium/Posterior-Knowledge-Selection)
 * **Mem2Seq**: Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. ACL-2018 [[pdf]](https://www.aclweb.org/anthology/P18-1136/) [[code]](https://github.com/HLTCHKUST/Mem2Seq)
