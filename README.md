@@ -95,6 +95,7 @@
 * **PAGenerator**: Guiding Variational Response Generator to Exploit Persona. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.7/)
 * **PEE**: A Neural Topical Expansion Framework for Unstructured Persona-Oriented Dialogue Generation. ECAI-2020 [[pdf]](https://ebooks.iospress.nl/publication/55146)
 * **Persona-sparse**: A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6518)
+* **RCDG**: Generating Persona Consistent Dialogues by Exploiting Natural Language Inference. AAAI-2020 [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6417) [[code]](https://github.com/songhaoyu/RCDG)
 * **Self-Consciousness**: Will I Sound Like Me? Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness. EMNLP-2020 [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.65/) [[code]](https://github.com/skywalker023/pragmatic-consistency)
 * **PAML**: Personalizing Dialogue Agents via Meta-Learning. ACL-2019 [[pdf]](https://www.aclweb.org/anthology/P19-1542/) [[code]](https://github.com/HLTCHKUST/PAML)
 * **PerCVAE**: Exploiting Persona Information for Diverse Generation of Conversational Responses. IJCAI-2019 [[pdf]](https://www.ijcai.org/Proceedings/2019/0721/) [[code]](https://github.com/vsharecodes/percvae)
