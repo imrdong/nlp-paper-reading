@@ -73,6 +73,7 @@
 
 ### Open-domain Dialogue
 
+* **MDFN**: Filling the Gap of Utterance-aware and Speaker-aware Representation for Multi-turn Dialogue. AAAI-2021 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/17582) [[code]](https://github.com/comprehensiveMap/MDFN)
 * **Adp Multi-CL**: Learning from Easy to Complex: Adaptive Multi-Curricula Learning for Neural Dialogue Generation. AAAI-2020 [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6244)
 * **DialogRPT**: Dialogue Response Ranking Training with Large-Scale Human Feedback Data. EMNLP-2020 [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.28/) [[code]](https://github.com/golsun/DialogRPT)
 * **PS**: Prototype-to-Style: Dialogue Generation with Style-Aware Editing on Retrieval Memory. arXiv-2020 [[pdf]](https://arxiv.org/abs/2004.02214)
