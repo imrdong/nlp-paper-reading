@@ -54,6 +54,7 @@
 
 * **Holistic Evaluation**: Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.333/) [[code]](https://github.com/alexzhou907/dialogue_evaluation)
 * **RS**: Evaluating Dialogue Generation Systems via Response Selection. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.55/) [[test set]](https://github.com/cl-tohoku/eval-via-selection)
+* **υBLEU**: υBLEU: Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-srw.27/) [[code&datasets]](http://www.tkl.iis.u-tokyo.ac.jp/~tsuta/acl-srw-2020/)
 * **Empirical Study**: How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation. EMNLP-2016 [[pdf]](https://www.aclweb.org/anthology/D16-1230/)
 * **BLEU**: BLEU: a Method for Automatic Evaluation of Machine Translation. ACL-2002 [[pdf]](https://www.aclweb.org/anthology/P02-1040/)
 
