@@ -89,6 +89,7 @@
 
 ### Personalized Dialogue
 
+* **DHAP**: One Chatbot Per Person: Creating Personalized Chatbots based on Implicit User Profiles. SIGIR-2021 [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462828) [[code]](https://github.com/zhengyima/DHAP)
 * **FewShot-PCM**: Learning from My Friends: Few-Shot Personalized Conversation Systems via Social Networks. AAAI-2021 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/17638) [[code]](https://github.com/tianzhiliang/FewShotPersonaConvData)
 * **GCC**: Large Scale Multi-Actor Generative Dialog Modeling. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.8/)
 * **GDR**: Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.516/)
