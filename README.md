@@ -35,6 +35,7 @@
 
 ### Dataset for Dialogue
 
+* **Pchatbot**: Pchatbot: A Large-Scale Dataset for Personalized Chatbot. SIGIR-2021 [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3463239) [[data]](https://github.com/qhjqhj00/SIGIR2021-Pchatbot)
 * **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.130/) [[data]](https://github.com/Nealcly/MuTual)
 * **Wizard of Wikipedia**: Wizard of Wikipedia: Knowledge-Powered Conversational Agents. ICLR-2019 [[pdf]](https://openreview.net/forum?id=r1l73iRqKm) [[data]](https://parl.ai/projects/wizard_of_wikipedia/)
 * **Holl-E**: Towards Exploiting Background Knowledge for Building Conversation Systems. EMNLP-2018 [[pdf]](https://www.aclweb.org/anthology/D18-1255/) [[code]](https://github.com/nikitacs16/Holl-E)
