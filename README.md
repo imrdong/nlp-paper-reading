@@ -37,6 +37,7 @@
 
 * **Pchatbot**: Pchatbot: A Large-Scale Dataset for Personalized Chatbot. SIGIR-2021 [[paper]](https://dl.acm.org/doi/10.1145/3404835.3463239) [[data]](https://github.com/qhjqhj00/SIGIR2021-Pchatbot)
 * **MuTual**: A Dataset for Multi-Turn Dialogue Reasoning. ACL-2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.130/) [[data]](https://github.com/Nealcly/MuTual)
+* **Pushshift Reddit**: The Pushshift Reddit Dataset. ICWSM-2020 [[paper]](https://ojs.aaai.org//index.php/ICWSM/article/view/7347) [[data]](https://files.pushshift.io/reddit/)
 * **Wizard of Wikipedia**: Wizard of Wikipedia: Knowledge-Powered Conversational Agents. ICLR-2019 [[paper]](https://openreview.net/forum?id=r1l73iRqKm) [[data]](https://parl.ai/projects/wizard_of_wikipedia/)
 * **Holl-E**: Towards Exploiting Background Knowledge for Building Conversation Systems. EMNLP-2018 [[paper]](https://www.aclweb.org/anthology/D18-1255/) [[code]](https://github.com/nikitacs16/Holl-E)
 * **OpenSubtitles2018**: OpenSubtitles2018: Statistical Rescoring of Sentence Alignments in Large, Noisy Parallel Corpora. LREC-2018 [[paper]](http://www.lrec-conf.org/proceedings/lrec2018/summaries/294.html) [[data]](https://opus.nlpl.eu/OpenSubtitles2018.php)
